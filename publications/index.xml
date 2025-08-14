@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ko Arimatsu web page</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Publications on Ko Arimatsu web page</description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The  OASES  Project:  Exploring  the  Outer  Solar  System  through  Stellar Occultation with Amateur-Class Telescopes</title>
+      <link>http://localhost:1313/publications/2025-the-oases-project-exploring-the-outer-solar-system-through-stellar-occultation-w/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-the-oases-project-exploring-the-outer-solar-system-through-stellar-occultation-w/</guid>
+      <description>The exploration of kilometre-sized trans-Neptunian objects (TNOs) is one of the ultimate goals in the search for the origin and evolution of the Solar System. However, such exploration is challenging because these small bodies are too faint to be directly detected. One potential avenue for detecting and investigating small and faint TNOs is the monitoring of stellar occultation events. This paper reviews the concept and methodology of monitoring observations of stellar occultations by small, unidentified TNOs, focusing on our observational programme, Organized Autotelescopes for Serendipitous Event Survey (OASES). OASES aims to detect and investigate stellar occultations by unidentified TNOs using multiple amateur-sized telescopes equipped with commercial complementary metal-oxide-semiconductor (CMOS) cameras. Through the monitoring observations conducted so far, OASES has found one possible occultation event by a kilometre-sized TNO. The paper also discusses future developments of the OASES project and deliberates on the potential of movie observations in expanding the frontiers of outer Solar System research.</description>
+    </item>
+    <item>
+      <title>Candidate  Distant  Trans-Neptunian  Objects  Detected  by  the  New  Horizons  Subaru TNO Survey</title>
+      <link>http://localhost:1313/publications/2024-candidate-distant-trans-neptunian-objects-detected-by-the-new-horizons-subaru-tn/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-candidate-distant-trans-neptunian-objects-detected-by-the-new-horizons-subaru-tn/</guid>
+      <description>We report the detection of 239 trans-Neptunian objects discovered through the ongoing New Horizons survey for distant minor bodies being performed with the Hyper Suprime-Cam mosaic imager on the Subaru Telescope. These objects were discovered in images acquired with either the r2 or the recently commissioned EB-gri filter using shift and stack routines. Due to the extremely high stellar density of the search region downstream of the spacecraft, new machine learning techniques had to be developed to manage the extremely high false-positive rate of bogus candidates produced from the shift and stack routines. We report discoveries as faint as r2 ∼ 26.5. We highlight an overabundance of objects found at heliocentric distances R ≳ 70 au compared to expectations from modeling of the known outer solar system. If confirmed, these objects betray the presence of a heretofore-unrecognized abundance of distant objects that can help explain a number of other observations that otherwise remain at odds with the known Kuiper Belt, including detections of serendipitous stellar occultations, and recent results from the Student Dust Counter on board the New Horizons spacecraft.</description>
+    </item>
+    <item>
+      <title>Diffraction  modelling  of  a  2023  March  5  stellar occultation  by  subkilometer-sized  asteroid  (98943)  2001  CC21</title>
+      <link>http://localhost:1313/publications/2024-diffraction-modelling-of-a-2023-march-5-stellar-occultation-by-subkilometer-size/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-diffraction-modelling-of-a-2023-march-5-stellar-occultation-by-subkilometer-size/</guid>
+      <description>We present an analysis of a stellar occultation event caused by a near-Earth asteroid (98943) 2001 CC21, an upcoming flyby target in the Hayabusa2 extended mission, on 2023 March 5. To determine the asteroid’s shape from diffraction-affected light curves accurately, we developed a novel data-reduction technique named the Diffracted Occultation’s United Simulator for Highly Informative Transient Explorations (DOUSHITE). Using DOUSHITE-generated synthetic models, we derived constraints on (98943) 2001 CC21’s shadow shape from the single-chord occultation data. Our results suggest a significant elongation of the shadow with an axis ratio of b/a = 0.37 ± 0.09 ⁠. This shape could be crucial for planning Hayabusa2’s high-speed flyby to optimise the limited imaging opportunities.</description>
+    </item>
+    <item>
+      <title>Optical  Variability  of  Blazars  in  the  Tomo-e  Gozen  Northern  Sky  Transient Survey</title>
+      <link>http://localhost:1313/publications/2024-optical-variability-of-blazars-in-the-tomo-e-gozen-northern-sky-transient-survey/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-optical-variability-of-blazars-in-the-tomo-e-gozen-northern-sky-transient-survey/</guid>
+      <description>We studied the optical variability of 241 BL Lacertae (BL Lacs) and 83 flat-spectrum radio quasars (FSRQs) from the 4LAC catalog using data from the Tomo-e Gozen Northern Sky Transient Survey, with ∼50 epochs per blazar on average. We excluded blazars whose optical variability may be underestimated due to the influence of their host galaxy based on their optical luminosity (LO). FSRQs with γ-ray photon index greater than 2.6 exhibit very low optical variability, and their distribution of standard deviation of repeated photometry is significantly different from that of the other FSRQs (Kolmogorov–Smirnov test p-value equal to 5 × 10−6). Among a sample of blazars at any particular cosmological epoch, those with lower γ-ray luminosity (Lγ) tend to have lower optical variability, and those FSRQs with a γ-ray photon index greater than 2.6 tend to have low Lγ. We also measured the structure function of optical variability and found that the amplitude of the structure function for FSRQs is higher than previously measured and higher than that of BL Lacs at multiple time lags. Additionally, the amplitude of the structure function of FSRQs with high γ-ray photon index is significantly lower than that of FSRQs with low γ-ray photon index. The structure function of FSRQs of high γ-ray photon index shows a characteristic timescale of more than 10 days, which may be the variability timescale of the accretion disk. In summary, we infer that the optical component of FSRQs with high γ-ray photon index may be dominated by the accretion disk.</description>
+    </item>
+    <item>
+      <title>JASMINE: Near-Infrared Astrometry and Time Series Photometry Science</title>
+      <link>http://localhost:1313/publications/paper-37/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/paper-37/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud  reflection modelling  for  impact  flashes  on  Jupiter</title>
+      <link>http://localhost:1313/publications/2023-cloud-reflection-modelling-for-impact-flashes-on-jupiter/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-cloud-reflection-modelling-for-impact-flashes-on-jupiter/</guid>
+      <description>Aims. We investigate the optical characteristics of flashes caused by the impact of metre- to decametre-sized outer Solar System objects on Jupiter, and the contributions of reflected light from surface clouds at visible wavelengths, in order to estimate more accurate bulk parameters, such as the luminous energy of the flash, the kinetic energy, the mass, and the size of the impact object.&#xA;Methods. Using the results of recent reflectivity studies of the Jovian surface, we developed a cloud reflection model that calculates the contribution of the reflected light relative to that directly from the flash. We compared the apparent luminous energy of the previously reported flashes with the expected cloud reflection contributions to obtain their revised bulk parameters.&#xA;Results. We find that cloud reflection contributions can make up to 200% of the flux directly from the flash, and thus can be the most significant uncertainty in the measurement of the bulk parameters. The reflection contributions strongly depend on wavelength. With our cloud reflection correction, we obtained revised bulk parameters for the previously reported flashes.&#xA;Conclusions. Our cloud reflection correction enables us to better understand the properties of objects impacting Jupiter and is crucial for ongoing detailed investigations using high-sensitivity and multi-wavelength observation systems, such as PONCOTS. It will also be useful for understanding other optical transients in Jupiter’s upper atmosphere, such as the recently discovered sprite-like events.</description>
+    </item>
+    <item>
+      <title>A  search  for  extragalactic  fast  optical  transients  in  the Tomo-e  Gozen  high-cadence  survey</title>
+      <link>http://localhost:1313/publications/2024-a-search-for-extragalactic-fast-optical-transients-in-the-tomo-e-gozen-high-cade/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-a-search-for-extragalactic-fast-optical-transients-in-the-tomo-e-gozen-high-cade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling  the optical  energy  profile  of  the  2021  October  Jupiter  impact  flash</title>
+      <link>http://localhost:1313/publications/2023-modelling-the-optical-energy-profile-of-the-2021-october-jupiter-impact-flash/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-modelling-the-optical-energy-profile-of-the-2021-october-jupiter-impact-flash/</guid>
+      <description>We have conducted numerical simulations to reproduce the observed optical energy profile of the 2021 October 15 (ut) impact flash on Jupiter, which was the largest and the most well-observed flash event detected by ground-based movie observations. The observed long-duration (∼5.5 s) optical emission can be reproduced by an impact of an object with an exceptionally small angle of entry relative to the horizontal. The apparent lack of the impact debris feature despite the large impact object was possibly due to the shallower angle of entry (≤12°), which resulted in the lower ablation per unit volume at altitudes higher than ⁠, and the volume densities of the ablated materials were too low to allow the debris particulates to coagulate. The absence of temporal methane absorption change in the observed flash spectrum is consistent with the best-fitting results. The model better fits the observed optical energy profile for weaker material (cometary and stony) cases than for metallic ones. Based on the simulation results, prospects for future observations of impact flashes are discussed.</description>
+    </item>
+    <item>
+      <title>Fast optical  flares  from  M  dwarfs  detected  by  a  one-second-cadence  survey  with  Tomo-e  Gozen</title>
+      <link>http://localhost:1313/publications/2022-fast-optical-flares-from-m-dwarfs-detected-by-a-one-second-cadence-survey-with-t/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2022-fast-optical-flares-from-m-dwarfs-detected-by-a-one-second-cadence-survey-with-t/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video  observations  of  tiny  near-Earth  objects  with  Tomo-e  Gozen</title>
+      <link>http://localhost:1313/publications/2022-video-observations-of-tiny-near-earth-objects-with-tomo-e-gozen/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2022-video-observations-of-tiny-near-earth-objects-with-tomo-e-gozen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faint  debris  disk  peering  through  superflare  light echo</title>
+      <link>http://localhost:1313/publications/2022-faint-debris-disk-peering-through-superflare-light-echo/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2022-faint-debris-disk-peering-through-superflare-light-echo/</guid>
+      <description>We present the detectability of strong mid-infrared (MIR) light echoes from faint debris disks illuminated by bright superflares of M-dwarf stars. Circumstellar dust grains around an M-dwarf star are simultaneously heated by superflare radiation. One can thus expect their re-emission in the MIR wavelength regime. According to our model calculations for the Proxima Centauri system, the nearest M-dwarf star system, thermal emission echoes from an inner (r &amp;lt; 1 au) debris disk with a total mass down to that of the solar system’s zodiacal dust are expected to emerge at wavelengths longer than ∼10 μm with a strength comparable to or greater than a white-light superflare. Also, observable echoes from inner- (r ≲ 0.5 au) debris disks irradiated by energetic ( ≳1033.5 erg) superflares of nearby (D &amp;lt; 3 pc) M dwarfs are expected. Our simulation results indicate that superflare monitoring using high-speed optical instruments like OASES and its prompt follow-up using ground-based MIR instruments, such as TAO/MIMIZUKU, can detect these MIR light echoes from debris disks around solar neighborhood flare stars.</description>
+    </item>
+    <item>
+      <title>Detection  of  an extremely  large  impact  flash  on  Jupiter  by  high-cadence  multiwavelength  observations</title>
+      <link>http://localhost:1313/publications/2022-detection-of-an-extremely-large-impact-flash-on-jupiter-by-high-cadence-multiwav/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2022-detection-of-an-extremely-large-impact-flash-on-jupiter-by-high-cadence-multiwav/</guid>
+      <description>We report the detection of an optical impact flash on Jupiter on 2021 October 15 by a dedicated telescope, Planetary ObservatioN Camera for Optical Transient Surveys, for the first time. Our temporally resolved three-band observations of the flash allowed investigations of its optical energy without the need for approximations on the impact brightness temperature. The kinetic energy of the impactor was equivalent to approximately two megatons of TNT, an order of magnitude greater than that of previously detected flashes on Jupiter and comparable with the Tunguska impact on Earth in 1908. This detection indicates that Tunguska-like impact events on Jupiter occur approximately once per year, two to three orders of magnitude more frequently than terrestrial impacts. The observed flash displayed a single-temperature blackbody spectrum with an effective temperature of approximately 8300 K without clear temporal variation, possibly representing common radiative features of terrestrial Tunguska-class superbolides.</description>
+    </item>
+    <item>
+      <title>Deep Simultaneous Limits on Optical Emission from FRB 20190520B by 24.4 fps Observations with Tomo-e Gozen</title>
+      <link>http://localhost:1313/publications/2022-deep-simultaneous-limits-on-optical-emission-from-frb-20190520b-by-24-4-fps-obse/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2022-deep-simultaneous-limits-on-optical-emission-from-frb-20190520b-by-24-4-fps-obse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discovery  of  the  Fastest Early Optical Emission from Overluminous SN Ia 2020hvf: A Thermonuclear Explosion within a Dense  Circumstellar  Environment</title>
+      <link>http://localhost:1313/publications/2021-discovery-of-the-fastest-early-optical-emission-from-overluminous-sn-ia-2020hvf-/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-discovery-of-the-fastest-early-optical-emission-from-overluminous-sn-ia-2020hvf-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Detectability of Optical Transients with Timescales of Subseconds</title>
+      <link>http://localhost:1313/publications/2021-detectability-of-optical-transients-with-timescales-of-subseconds/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-detectability-of-optical-transients-with-timescales-of-subseconds/</guid>
+      <description>We search for optical transient sources with durations of ∼0.1 to ∼1.3 s using a data set obtained in the Organized Autotelescopes for Serendipitous Event Survey (OASES) observation campaign. Since the OASES observations were carried out using two independent wide-field and high-cadence observation systems monitored the same field simultaneously, the obtained data set provides a unique opportunity to develop a robust detection method for subsecond optical transients. In the data set of a selected field around the ecliptic and the Galactic plane, we find no astronomical event candidate that satisfies our detection criteria. From the nondetection result, we derive an upper limit on the event rate of subsecond transients around the ecliptic and the Galactic plane for the first time, obtaining ∼0.090 and ∼0.38 hr−1 deg−2 for m = 12 and 13 Vmag, respectively. In addition, future prospects of the subsecond-scale transient event surveys are discussed.</description>
+    </item>
+    <item>
+      <title>An  optical  search  for  transients  lasting  a  few  seconds</title>
+      <link>http://localhost:1313/publications/2020-an-optical-search-for-transients-lasting-a-few-seconds/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-an-optical-search-for-transients-lasting-a-few-seconds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relationship between Radar Cross Section and Optical Magnitude based on Radar and Optical Simultaneous Observations of Faint Meteors</title>
+      <link>http://localhost:1313/publications/2020-relationship-between-radar-cross-section-and-optical-magnitude-based-on-radar-an/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-relationship-between-radar-cross-section-and-optical-magnitude-based-on-radar-an/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evidence  for  a  rapid  decrease  of  Plutoʼs  atmospheric  pressure  revealed  by  a  stellar occultation in 2019</title>
+      <link>http://localhost:1313/publications/2020-evidence-for-a-rapid-decrease-of-pluto-s-atmospheric-pressure-revealed-by-a-stel/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-evidence-for-a-rapid-decrease-of-pluto-s-atmospheric-pressure-revealed-by-a-stel/</guid>
+      <description>We report observations of a stellar occultation by Pluto on 2019 July 17. A single-chord high-speed (time resolution = 2 s) photometry dataset was obtained with a CMOS camera mounted on the Tohoku University 60 cm telescope (Haleakala, Hawaii). The occultation light curve is satisfactorily fitted to an existing atmospheric model of Pluto. We find the lowest pressure value at a reference radius of r = 1215 km among those reported after 2012. These reports indicate a possible rapid (approximately 21−5+4% of the previous value) pressure drop between 2016, which is the latest reported estimate, and 2019. However, this drop is detected at a 2.4σ level only and still requires confirmation from future observations. If real, this trend is opposite from the monotonic increase of Pluto’s atmospheric pressure reported by previous studies. The observed decrease trend is possibly caused by ongoing N2 condensation processes in the Sputnik Planitia glacier associated with an orbitally driven decline of solar insolation, as predicted by previous theoretical models. However, the observed amplitude of the pressure decrease is larger than the model predictions.</description>
+    </item>
+    <item>
+      <title>Luminosity  Function  of  Faint  Sporadic  Meteors  measured  with  a  Wide-Field  CMOS  mosaic camera Tomo-e PM</title>
+      <link>http://localhost:1313/publications/2019-luminosity-function-of-faint-sporadic-meteors-measured-with-a-wide-field-cmos-mo/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-luminosity-function-of-faint-sporadic-meteors-measured-with-a-wide-field-cmos-mo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New  constraint  on  the  atmosphere  of  (50000)  Quaoar  from  a  stellar occultation</title>
+      <link>http://localhost:1313/publications/2019-new-constraint-on-the-atmosphere-of-50000-quaoar-from-a-stellar-occultation/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-new-constraint-on-the-atmosphere-of-50000-quaoar-from-a-stellar-occultation/</guid>
+      <description>We report observations of a stellar occultation by the classical Kuiper Belt object (50000) Quaoar that occurred on 2019 June 28. A single-chord high-cadence (2 Hz) photometry data set was obtained with the Tomo-e Gozen CMOS camera mounted on the 1.05 m Schmidt telescope at Kiso Observatory. The obtained ingress and egress data do not show any indication of atmospheric refraction and allow new 1σ and 3σ upper limits of 6 and 16 nbar, respectively, to be set for the surface pressure of a pure methane atmosphere. These upper limits are lower than the saturation vapor pressure of methane at Quaoar’s expected mean surface temperature (T ∼ 44 K) and imply the absence of a ∼10 nbar-level global atmosphere formed by methane ice on Quaoar’s surface.</description>
+    </item>
+    <item>
+      <title>A kilometre-sized Kuiper belt object discovered by stellar occultation using amateur telescopes</title>
+      <link>http://localhost:1313/publications/2019-a-kilometre-sized-kuiper-belt-object-discovered-by-stellar-occultation-using-ama/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-a-kilometre-sized-kuiper-belt-object-discovered-by-stellar-occultation-using-ama/</guid>
+      <description>Kuiper belt objects (KBOs) are thought to be remnants of the early Solar System, and their size distribution provides an opportunity to explore the formation and evolution of the outer Solar System1,2,3,4,5. In particular, the size distribution of kilometre-sized (radius = 1–10 km) KBOs represents a signature of initial planetesimal sizes when planets form5. These kilometre-sized KBOs are extremely faint, and it is impossible to detect them directly. Instead, the monitoring of stellar occultation events is one possible way to discover these small KBOs6,7,8,9. However, until now, there has been no observational evidence for occultation events of KBOs with radii of 1–10 km. Here, we report the first detection of a single occultation event candidate by a KBO with a radius of ~1.3 km, which was simultaneously provided by two low-cost small telescopes coupled with commercial complementary metal–oxide–semiconductor cameras. From this detection, we conclude that the surface number density of KBOs with radii exceeding ~1.2 km is ~6 × 105 deg−2. This surface number density favours a theoretical size distribution model with an excess signature at a radius of 1–2 km (ref. 5). If this is a true KBO detection, this implies that planetesimals before their runaway growth phase grew into kilometre-sized objects in the primordial outer Solar System and remain as a major population in the present-day Kuiper belt.</description>
+    </item>
+    <item>
+      <title>Evaluation  of  large  pixel  CMOS  image  sensors  for  the  Tomo-e Gozen wide field camera</title>
+      <link>http://localhost:1313/publications/2018-evaluation-of-large-pixel-cmos-image-sensors-for-the-tomo-e-gozen-wide-field-cam/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2018-evaluation-of-large-pixel-cmos-image-sensors-for-the-tomo-e-gozen-wide-field-cam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The  Tomo-e  Gozen  wide  field  CMOS  camera  for  the  Kiso Schmidt telescope</title>
+      <link>http://localhost:1313/publications/2018-the-tomo-e-gozen-wide-field-cmos-camera-for-the-kiso-schmidt-telescope/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2018-the-tomo-e-gozen-wide-field-cmos-camera-for-the-kiso-schmidt-telescope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advantages  of  the  Akari  FIR  All-Sky  Maps</title>
+      <link>http://localhost:1313/publications/2017-advantages-of-the-akari-fir-all-sky-maps/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2017-advantages-of-the-akari-fir-all-sky-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FIR  View of Disks of Weak-Line T Tauri Stars</title>
+      <link>http://localhost:1313/publications/2017-fir-view-of-disks-of-weak-line-t-tauri-stars/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2017-fir-view-of-disks-of-weak-line-t-tauri-stars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Small-Scale  Structure  of  the  Zodiacal  Dust  Cloud  Observed  in  Far- Infrared  with  Akari</title>
+      <link>http://localhost:1313/publications/2017-small-scale-structure-of-the-zodiacal-dust-cloud-observed-in-far-infrared-with-a/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2017-small-scale-structure-of-the-zodiacal-dust-cloud-observed-in-far-infrared-with-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cold Molecular Gas Along the Merger Sequence in Local Luminous Infrared Galaxies</title>
+      <link>http://localhost:1313/publications/2017-cold-molecular-gas-along-the-merger-sequence-in-local-luminous-infrared-galaxies/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2017-cold-molecular-gas-along-the-merger-sequence-in-local-luminous-infrared-galaxies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organized  Autotelescopes  for  Serendipitous  Event  Survey  (OASES):  Design  and  performance</title>
+      <link>http://localhost:1313/publications/2017-organized-autotelescopes-for-serendipitous-event-survey-oases-design-and-perform/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2017-organized-autotelescopes-for-serendipitous-event-survey-oases-design-and-perform/</guid>
+      <description>Organized Autotelescopes for Serendipitous Event Survey (OASES) is an optical observation project that aims to detect and investigate stellar occultation events by kilometer-sized trans-Neptunian objects (TNOs). In this project, multiple low-cost observation systems for wide-field and high-speed photometry were developed in order to detect rare and short-timescale stellar occultation events. The observation system consists of commercial off-the-shelf 0.28 m aperture f/1.58 optics providing a 2.3 deg × 1.8 deg field of view. A commercial CMOS camera is coupled to the optics to obtain full-frame imaging with a frame rate greater than 10 Hz. As of 2016 September, this project exploits two observation systems, which are installed on Miyako Island, Okinawa, Japan. Recent improvements in CMOS technology in terms of high-speed imaging and low readout noise mean that the observation systems are capable of monitoring ∼2000 stars in the Galactic plane simultaneously with magnitudes down to V ∼ 13.0, providing ∼20% photometric precision in light curves with a sampling cadence of 15.4 Hz. This number of monitored stars is larger than for any other existing instruments for coordinated occultation surveys. In addition, a precise time synchronization method needed for simultaneous occultation detection is developed using faint meteors. The two OASES observation systems are executing coordinated monitoring observations of a dense stellar field in order to detect occultations by kilometer-sized TNOs for the first time.</description>
+    </item>
+    <item>
+      <title>AKARI  far-infrared  maps  of the  zodiacal  dust  bands</title>
+      <link>http://localhost:1313/publications/2016-akari-far-infrared-maps-of-the-zodiacal-dust-bands/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2016-akari-far-infrared-maps-of-the-zodiacal-dust-bands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development  of  a  prototype  of  the  Tomo-e  Gozen  wide-field  CMOS  camera</title>
+      <link>http://localhost:1313/publications/2016-development-of-a-prototype-of-the-tomo-e-gozen-wide-field-cmos-camera/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2016-development-of-a-prototype-of-the-tomo-e-gozen-wide-field-cmos-camera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development  of  a  real-time  data  processing  system  for  a  prototype  of  the  Tomo-e Gozen  wide  field  CMOS  camera</title>
+      <link>http://localhost:1313/publications/2016-development-of-a-real-time-data-processing-system-for-a-prototype-of-the-tomo-e-/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2016-development-of-a-real-time-data-processing-system-for-a-prototype-of-the-tomo-e-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calibration  of the AKARI far-infrared all-sky survey maps</title>
+      <link>http://localhost:1313/publications/2015-calibration-of-the-akari-far-infrared-all-sky-survey-maps/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2015-calibration-of-the-akari-far-infrared-all-sky-survey-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The  AKARI  far-infrared  all-sky  survey  maps</title>
+      <link>http://localhost:1313/publications/2015-the-akari-far-infrared-all-sky-survey-maps/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2015-the-akari-far-infrared-all-sky-survey-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kiso  Supernova  Survey  (KISS):  Survey  strategy</title>
+      <link>http://localhost:1313/publications/2014-kiso-supernova-survey-kiss-survey-strategy/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-kiso-supernova-survey-kiss-survey-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Point source calibration of the AKARI/FIS all- sky  survey  maps  for  stacking  analysis</title>
+      <link>http://localhost:1313/publications/2014-point-source-calibration-of-the-akari-fis-all-sky-survey-maps-for-stacking-analy/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-point-source-calibration-of-the-akari-fis-all-sky-survey-maps-for-stacking-analy/</guid>
+      <description>Investigations of the point spread functions (PSFs) and flux calibrations for stacking analysis have been performed with the far-infrared (wavelength range of 60 to 140 μm) all-sky maps taken by the Far-Infrared Surveyor (FIS) on board the AKARI satellite. The PSFs are investigated by stacking the maps at the positions of standard stars with their fluxes of 0.02–10 Jy. The derived full widths at the half maximum (FWHMs) of the PSFs are ∼ 60′′ at 65 and 90 μm and ∼ 90′′ at 140 μm, which are much smaller than those of the previous all-sky maps obtained with the Infrared Astronomical Satellite IRAS (∼ 6′). Any flux dependence in the PSFs is not seen on the investigated flux range. By performing the flux calibrations, we found that absolute photometry for faint sources can be carried out with constant calibration factors, which range from 0.6 to 0.8. After applying the calibration factors, the photometric accuracies for the stacked sources in the 65, 90, and 140 μm bands are 9%, 3%, and 21%, respectively, even below the detection limits of the survey. No systematic dependence between the observed flux and model flux is found. These results indicate that the FIS map is a useful dataset for the stacking analyses of faint sources at far-infrared wavelengths.</description>
+    </item>
+    <item>
+      <title>Near-infrared Brightness  of  Ganymede  and  Callisto  Eclipsed  in  Jovian  Shadow:  A  New  Scope  to  Investigate Jovian Upper Atmosphere</title>
+      <link>http://localhost:1313/publications/2014-near-infrared-brightness-of-ganymede-and-callisto-eclipsed-in-jovian-shadow-a-ne/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-near-infrared-brightness-of-ganymede-and-callisto-eclipsed-in-jovian-shadow-a-ne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiwavelength study of the high-latitude cloud L1642: chain of star formation</title>
+      <link>http://localhost:1313/publications/2014-multiwavelength-study-of-the-high-latitude-cloud-l1642-chain-of-star-formation/</link>
+      <pubDate>Sun, 20 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-multiwavelength-study-of-the-high-latitude-cloud-l1642-chain-of-star-formation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AKARI North Ecliptic Pole Deep Survey. Revision of the catalogue via a new image analysis</title>
+      <link>http://localhost:1313/publications/paper-7/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/paper-7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interstellar  Dust  Properties  of  M51  from  AKARI  Mid-infrared  Images</title>
+      <link>http://localhost:1313/publications/2013-interstellar-dust-properties-of-m51-from-akari-mid-infrared-images/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2013-interstellar-dust-properties-of-m51-from-akari-mid-infrared-images/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Search for Infrared Emission from Core-collapse Supernovae  at  the  Transitional  Phase</title>
+      <link>http://localhost:1313/publications/2012-a-search-for-infrared-emission-from-core-collapse-supernovae-at-the-transitional/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-a-search-for-infrared-emission-from-core-collapse-supernovae-at-the-transitional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AKARI  Far-Infrared  All-Sky  Survey  Maps</title>
+      <link>http://localhost:1313/publications/2012-akari-far-infrared-all-sky-survey-maps/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-akari-far-infrared-all-sky-survey-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interstellar  Dust  in  M51  from  IRC  Images</title>
+      <link>http://localhost:1313/publications/2012-interstellar-dust-in-m51-from-irc-images/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-interstellar-dust-in-m51-from-irc-images/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Filamentary Web of Star Formation</title>
+      <link>http://localhost:1313/publications/2012-the-filamentary-web-of-star-formation/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-the-filamentary-web-of-star-formation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Characterization and Improvement  of  the  Image  Quality  of  the  Data  Taken  with  the  Infrared  Camera  (IRC)  Mid- Infrared  Channels  onboard  AKARI</title>
+      <link>http://localhost:1313/publications/2011-characterization-and-improvement-of-the-image-quality-of-the-data-taken-with-the/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2011-characterization-and-improvement-of-the-image-quality-of-the-data-taken-with-the/</guid>
+      <description>Mid-infrared images frequently suffer artifacts and extended point-spread functions (PSFs). We investigate the characteristics of the artifacts and the PSFs in images obtained with the infrared camera (IRC) on board AKARI at four mid-infrared bands of the S7 (7 μm), S11 (11 μm), L15 (15 μm), and L24 (24 μm). Removal of the artifacts significantly improves the reliability of the reference data for flat-fielding at the L15 and L24 bands. A set of models of the IRC PSFs is also constructed from on-orbit data. These PSFs have extended components that come from diffraction and scattering within the detector arrays. We estimate the aperture correction factors for point sources and the surface brightness correction factors for diffuse sources. We conclude that the surface brightness correction factors range from 0.95 to 0.8, taking account of the extended component of the PSFs. To correct for the extended PSF effects for the study of faint structures, we also develop an image reconstruction method, which consists of the deconvolution with the PSF and the convolution with an appropriate Gaussian. The appropriate removal of the artifacts, improved flat-fielding, and image reconstruction with the extended PSFs enable us to investigate detailed structures of extended sources in IRC mid-infrared images.</description>
+    </item>
+    <item>
+      <title>Detection  of  the  Detached  Dust  Shell  of  U  Antliae  at  Mid-infrared  Wavelengths  with AKARI/IRC</title>
+      <link>http://localhost:1313/publications/2011-detection-of-the-detached-dust-shell-of-u-antliae-at-mid-infrared-wavelengths-wi/</link>
+      <pubDate>Mon, 14 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2011-detection-of-the-detached-dust-shell-of-u-antliae-at-mid-infrared-wavelengths-wi/</guid>
+      <description>We report mid-infrared (MIR) imaging observations of the carbon star U Ant made with the Infrared Camera (IRC) on board AKARI. Subtraction of the artifacts and extended point-spread function of the central star reveals the detached dust shell around the carbon star at MIR wavelengths (15 and 24 μm) for the first time. The observed radial brightness profiles of the MIR emission are well explained by two shells at 43″ and 50″ from the central star detected in optical scattered light observations. Combining Herschel/PACS, AKARI/FIS, and AKARI/IRC data, we obtain the infrared spectral energy distribution (SED) of the thermal emission from the detached shell of U Ant in a wide infrared spectral range of 15–160 μm. Thermal emission of amorphous carbon grains with a single temperature cannot account for the observed SED from 15 to 160 μm: it underestimates the emission at 15 μm. Alternatively, the observed SED is fitted by the model in which amorphous carbon grains in the two shells have different temperatures of 60 and 104 K, which allocates most dust mass in the shell at 50″. This supports the previous suggestion that the 43″ shell is gas-rich and the 50″ shell is dust-rich. We suggest a possibility that the segregation of the gas and dust resulting from the drift motion of submicron-sized dust grains relative to the gas and that the hot dust component associated with the gas-rich shell is composed of very small grains that are strongly coupled with the gas.</description>
+    </item>
+  </channel>
+</rss>

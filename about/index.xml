@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Ko Arimatsu web page</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on Ko Arimatsu web page</description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>所属・職位</title>
+      <link>http://localhost:1313/about/current-affiliation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/current-affiliation/</guid>
+      <description>&lt;p&gt;京都大学 白眉センター・特定助教&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>研究テーマ</title>
+      <link>http://localhost:1313/about/research-topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/research-topics/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;恒星掩蔽観測による太陽系外縁天体・オールト雲の探査&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;外惑星衝突閃光観測による太陽系外縁微小天体の探査&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;可視小型・高速観測システムの開発と応用&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>学歴</title>
+      <link>http://localhost:1313/about/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/education/</guid>
+      <description>&lt;dl class=&#34;edu&#34;&gt;&#xA; &lt;dt&gt;2006年3月&lt;/dt&gt;&lt;dd&gt;群馬県立前橋高等学校 卒業&lt;/dd&gt;  &#xA; &lt;dt&gt;2006年4月&lt;/dt&gt;&lt;dd&gt;東京大学 教養学部 理科一類 入学&lt;/dd&gt; &#xA; &lt;dt&gt;2010年3月&lt;/dt&gt;&lt;dd&gt;東京大学 理学部 天文学科 卒業&lt;/dd&gt; &#xA;&lt;dt&gt;2010年4月&lt;/dt&gt;&lt;dd&gt;東京大学大学院 理学系研究科 天文学専攻 修士課程 入学&lt;/dd&gt;&#xA;  &lt;dt&gt;2012年3月&lt;/dt&gt;&lt;dd&gt;同 修士課程 修了&lt;/dd&gt;&#xA;  &lt;dt&gt;2012年4月&lt;/dt&gt;&lt;dd&gt;東京大学大学院 天文学専攻 博士課程 進学&lt;/dd&gt;&#xA;  &lt;dt&gt;2015年3月&lt;/dt&gt;&lt;dd&gt;同 博士課程 修了／博士（理学）取得&lt;/dd&gt; &#xA;&lt;/dl&gt;</description>
+    </item>
+    <item>
+      <title>職歴</title>
+      <link>http://localhost:1313/about/employment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/employment/</guid>
+      <description>&lt;dl class=&#34;edu&#34;&gt;&#xA;  &lt;dt&gt;2015年4月&lt;/dt&gt;&lt;dd&gt;国立天文台 天文情報センター／日本学術振興会 特別研究員（PD）〔〜2018年3月〕&lt;/dd&gt;&#xA;  &lt;dt&gt;2018年9月&lt;/dt&gt;&lt;dd&gt;京都大学 大学院理学研究科 附属天文台 研究員〔〜2020年12月〕&lt;/dd&gt;&#xA;  &lt;dt&gt;2021年1月&lt;/dt&gt;&lt;dd&gt;京都大学 白眉センター 特定助教〔在職中〕&lt;/dd&gt;&#xA;&lt;/dl&gt;</description>
+    </item>
+  </channel>
+</rss>
