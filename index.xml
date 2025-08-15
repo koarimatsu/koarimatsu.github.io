@@ -9,11 +9,25 @@
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>小説『オオルリ流星群』</title>
+      <link>http://localhost:1313/others/ooruri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/ooruri/</guid>
+      <description>伊与原新氏の小説『オオルリ流星群』とOASESプロジェクトとの関わり</description>
+    </item>
+    <item>
       <title>所属・職位</title>
       <link>http://localhost:1313/about/current-affiliation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/current-affiliation/</guid>
       <description>&lt;p&gt;京都大学 白眉センター・特定助教&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>小惑星 (27590) Koarimatsu</title>
+      <link>http://localhost:1313/others/koarimatsu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/koarimatsu/</guid>
+      <description>小惑星(27590) Koarimatsu の基礎データ、命名の由来</description>
     </item>
     <item>
       <title>研究テーマ</title>

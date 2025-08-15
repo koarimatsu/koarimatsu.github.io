@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Ko Arimatsu web page</title>
+    <link>http://localhost:1313/others/</link>
+    <description>Recent content in Others on Ko Arimatsu web page</description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <atom:link href="http://localhost:1313/others/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小説『オオルリ流星群』</title>
+      <link>http://localhost:1313/others/ooruri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/ooruri/</guid>
+      <description>伊与原新氏の小説『オオルリ流星群』とOASESプロジェクトとの関わり</description>
+    </item>
+    <item>
+      <title>小惑星 (27590) Koarimatsu</title>
+      <link>http://localhost:1313/others/koarimatsu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/koarimatsu/</guid>
+      <description>小惑星(27590) Koarimatsu の基礎データ、命名の由来</description>
+    </item>
+  </channel>
+</rss>
