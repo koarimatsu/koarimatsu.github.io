@@ -410,6 +410,8 @@
     <loc>http://localhost:1313/publications/2011-detection-of-the-detached-dust-shell-of-u-antliae-at-mid-infrared-wavelengths-wi/</loc>
     <lastmod>2011-02-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/policy/images/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -417,6 +419,8 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/others/</loc>
+  </url><url>
+    <loc>http://localhost:1313/policy/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>

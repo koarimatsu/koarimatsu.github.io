@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policies on Ko Arimatsu web page</title>
+    <link>http://localhost:1313/policy/</link>
+    <description>Recent content in Policies on Ko Arimatsu web page</description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <atom:link href="http://localhost:1313/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/policy/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/policy/images/</guid>
+      <description>&lt;h2 id=&#34;画像の利用について&#34;&gt;画像の利用について&lt;/h2&gt;&#xA;&lt;p&gt;本サイト掲載の画像・イラスト等の著作権は、特記ない限り有松亘に帰属します。&lt;/p&gt;&#xA;&lt;h3 id=&#34;利用条件&#34;&gt;利用条件&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;非営利利用&lt;/strong&gt;：出典を明記することで自由に利用可能&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;営利利用&lt;/strong&gt;：事前にご連絡ください&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;禁止事項&lt;/strong&gt;：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;誤解を招く加工や改変&lt;/li&gt;&#xA;&lt;li&gt;第三者への再配布&lt;/li&gt;&#xA;&lt;li&gt;法令や公序良俗に反する利用&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;問い合わせ&#34;&gt;問い合わせ&lt;/h3&gt;&#xA;&lt;p&gt;使用許諾に関しては &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;こちら&lt;/a&gt; からご連絡ください。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
