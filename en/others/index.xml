@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Others on Ko Arimatsu web page</title>
+		<link>https://arimatsuko.com/en/others/</link>
+		<description>Recent content in Others on Ko Arimatsu web page</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="https://arimatsuko.com/en/others/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The novel &#34;Ooruri Ryuseigun&#34;</title>
+				<link>https://arimatsuko.com/en/others/ooruri/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/en/others/ooruri/</guid>
+				<description>Shin Iyohara&amp;rsquo;s novel &amp;ldquo;Ooruri Ryuseigun&amp;rdquo; and its connection with the OASES project</description>
+			</item>
+			<item>
+				<title>Asteroid (27590) Koarimatsu</title>
+				<link>https://arimatsuko.com/en/others/koarimatsu/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/en/others/koarimatsu/</guid>
+				<description>Basic data on asteroid (27590) Koarimatsu and the citation for its name</description>
+			</item>
+	</channel>
+</rss>

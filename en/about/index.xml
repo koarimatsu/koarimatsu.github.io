@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>About on Ko Arimatsu web page</title>
+		<link>https://arimatsuko.com/en/about/</link>
+		<description>Recent content in About on Ko Arimatsu web page</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="https://arimatsuko.com/en/about/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Current Position</title>
+				<link>https://arimatsuko.com/en/about/current-affiliation/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/en/about/current-affiliation/</guid>
+				<description>&lt;p&gt;Director, Ishigakijima Astronomical Observatory&lt;/p&gt;&#xA;&lt;p&gt;Lecturer, Public Relations Center, National Astronomical Observatory of Japan (NAOJ)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Topics</title>
+				<link>https://arimatsuko.com/en/about/research-topics/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/en/about/research-topics/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exploring trans-Neptunian objects and the Oort cloud through stellar occultations&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exploring tiny outer solar system bodies through impact flashes on the giant planets&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Development and application of compact, high-cadence optical observation systems&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Education</title>
+				<link>https://arimatsuko.com/en/about/education/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/en/about/education/</guid>
+				<description>&lt;dl class=&#34;edu&#34;&gt;&#xA;  &lt;dt&gt;Mar 2006&lt;/dt&gt;&lt;dd&gt;Graduated from Gunma Prefectural Maebashi High School&lt;/dd&gt;&#xA;  &lt;dt&gt;Apr 2006&lt;/dt&gt;&lt;dd&gt;Entered the University of Tokyo (College of Arts and Sciences, Natural Sciences I)&lt;/dd&gt;&#xA;  &lt;dt&gt;Mar 2010&lt;/dt&gt;&lt;dd&gt;B.Sc., Department of Astronomy, Faculty of Science, the University of Tokyo&lt;/dd&gt;&#xA;  &lt;dt&gt;Apr 2010&lt;/dt&gt;&lt;dd&gt;Entered the master&#39;s program, Department of Astronomy, Graduate School of Science, the University of Tokyo&lt;/dd&gt;&#xA;  &lt;dt&gt;Mar 2012&lt;/dt&gt;&lt;dd&gt;M.Sc., the University of Tokyo&lt;/dd&gt;&#xA;  &lt;dt&gt;Apr 2012&lt;/dt&gt;&lt;dd&gt;Entered the doctoral program, Department of Astronomy, the University of Tokyo&lt;/dd&gt;&#xA;  &lt;dt&gt;Mar 2015&lt;/dt&gt;&lt;dd&gt;Ph.D. in Science, the University of Tokyo&lt;/dd&gt;&#xA;&lt;/dl&gt;</description>
+			</item>
+			<item>
+				<title>Employment</title>
+				<link>https://arimatsuko.com/en/about/employment/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/en/about/employment/</guid>
+				<description>&lt;dl class=&#34;edu&#34;&gt;&#xA;  &lt;dt&gt;Apr 2015&lt;/dt&gt;&lt;dd&gt;JSPS Research Fellow (PD), Public Relations Center, National Astronomical Observatory of Japan (until Mar 2018)&lt;/dd&gt;&#xA;  &lt;dt&gt;Sep 2018&lt;/dt&gt;&lt;dd&gt;Researcher, Astronomical Observatory, Graduate School of Science, Kyoto University (until Dec 2020)&lt;/dd&gt;&#xA;  &lt;dt&gt;Jan 2021&lt;/dt&gt;&lt;dd&gt;Program-Specific Assistant Professor, The Hakubi Center for Advanced Research, Kyoto University (until Nov 2025)&lt;/dd&gt;&#xA;  &lt;dt&gt;Dec 2025&lt;/dt&gt;&lt;dd&gt;Lecturer, Public Relations Center, National Astronomical Observatory of Japan / Director, Ishigakijima Astronomical Observatory (present)&lt;/dd&gt;&#xA;&lt;/dl&gt;</description>
+			</item>
+	</channel>
+</rss>
