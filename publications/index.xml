@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://arimatsuko.com/publications/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Size, atmospheric, and ring constraints on the large Kuiper belt object (55565) Aya from a stellar occultation</title>
+				<link>https://arimatsuko.com/publications/2026-size-atmospheric-and-ring-constraints-on-the-large-kuiper-belt-object-55565-aya/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://arimatsuko.com/publications/2026-size-atmospheric-and-ring-constraints-on-the-large-kuiper-belt-object-55565-aya/</guid>
+				<description>We aim to constrain the projected size, geometric albedo, possible atmosphere, and possible ring material of the mid-sized trans-Neptunian object (55565) Aya from the stellar occultation of 2024 May 10 (UT). We observed the event from three Japanese sites with high-cadence optical imaging. We combined one positive occultation chord with an informative prior on the shadow centre derived from orbital and astrometric uncertainties, and inferred the body radius with Bayesian Markov chain Monte Carlo modelling. We constrained a possible atmosphere by fitting refraction models for pure CH4, N2, and CO atmospheres to multi-band light curves, and searched for ring-like extinction signatures in unbinned and binned high-time-resolution photometry. We derive an equivalent radius, i.e., the radius of the circle fitted to the projected shadow, of r = 401 (+28/−40) km for Aya, corresponding to a geometric albedo of pV = 0.101 (+0.023/−0.013). This estimate is insensitive to the adopted ephemeris solution and is consistent with an ephemeris-independent analysis that makes no assumption about the position of the shadow centre. We obtain 3σ upper limits on the atmospheric surface pressure of p0 = 60, 90, and 80 nbar for pure CH4, N2, and CO compositions, respectively. No significant ring-like extinction is detected over projected distances of about 430–8060 km sampled by the three stations, and our most sensitive data exclude dense narrow features with apparent opacity p′ ≳ 0.1 and radial widths of a few kilometres or larger over ∼3r–14r. This is the first stellar occultation by Aya ever observed. In addition to constraining Aya&amp;rsquo;s size and albedo and finding no ring-like extinction, we place a stringent atmospheric upper limit that supports diversity in atmospheric states among similarly sized trans-Neptunian objects.</description>
+			</item>
 			<item>
 				<title>Large-scale Morphology of the Optical F-corona from a Total Solar Eclipse Observation during the Artemis II Lunar Flyby</title>
 				<link>https://arimatsuko.com/publications/2026-large-scale-morphology-of-the-optical-f-corona-from-a-total-solar-eclipse-obs/</link>
